@@ -1,0 +1,5 @@
+# Ignore Private Key
+.private-key.json
+
+# Jupyter Notebook
+.ipynb_checkpoints
